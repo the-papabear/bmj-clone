@@ -1,0 +1,407 @@
+{
+  "headline": {
+    "category": "Headlines",
+
+    "main": {
+      "title": "Effect of nutritionally modified infant formula on academic performance",
+      "bio": "Children who are given nutrient or supplement enriched formula milk as babies do not appear to have higher exam scores as adolescents than those fed with standard formula, finds this study",
+      "img": "/baby-bottle.jpeg"
+    },
+
+    "titles": [
+      {
+        "title": "Exercise versus usual care after non-reconstructive breast cancer surgery",
+        "bio": "Women who exercise shortly after having non-reconstructive breast cancer surgery appear to regain better shoulder and arm mobility and experience less pain than those who receive standard care, concludes this study",
+        "img": "./operation.jpg",
+        "category": "Research |",
+        "publishDate": "Nov 11"
+      },
+
+      {
+        "title": "Have international in-person medical meetings had their day?",
+        "bio": "The pandemic has changed how conferences are conducted. Richard Smith says that now is the time to change the status quo forever. But Viknesh Sounderajah and Ara Darzi argue that going entirely virtual would lose many of the features that make meetings so valuable",
+        "img": "./microphone.jpg",
+        "category": "Head To Head |",
+        "publishDate": "Nov 10"
+      },
+
+      {
+        "title": "Covid-19: Researcher blows the whistle on data integrity issues in Pfizer’s vaccine trial",
+        "bio": "Evidence from a whistleblower engaged in Pfizer’s pivotal covid-19 vaccine trial raises serious questions about data integrity and regulatory oversight",
+        "img": "./covid-vaccine.jpg",
+        "category": "Feature |",
+        "publishDate": "Nov 2"
+      }
+    ],
+    "aside": [
+      {
+        "title": "COP26 diary: the health clans gather",
+        "category": "Opinion |",
+        "publishDate": "Nov 10"
+      },
+
+      {
+        "title": "Covid-19: Pandemic reduced life expectancy in most developed countries, study finds",
+        "category": "News |",
+        "publishDate": "Nov 10"
+      },
+
+      {
+        "title": "Inquiry into maternity care at Nottingham trust to investigate if incidents were downgraded",
+        "category": "News |",
+        "publishDate": "Nov 10"
+      },
+
+      {
+        "title": "MPs press for investigation of covid related contracts during “sleaze” debate on standards",
+        "category": "News |",
+        "publishDate": "Nov 10"
+      },
+
+      {
+        "title": "David Oliver: The cultural problems still affecting PPE provision",
+        "category": "Views & Reviews |",
+        "publishDate": "Nov 10"
+      },
+
+      {
+        "title": "Covid-19: BMA asks doctors to submit evidence on UK’s pandemic response",
+        "category": "News |",
+        "publishDate": "Nov 10"
+      },
+
+      {
+        "title": "Long covid: new wine in need of new bottles",
+        "category": "Opinion |",
+        "publishDate": "Nov 9"
+      }
+    ]
+  },
+
+  "latest": {
+    "category": "Latest articles",
+    "titles": [
+      {
+        "category": "News",
+        "img": "./singapore-vaccine-advert.jpg",
+        "titles": [
+          "Covid-19: Singaporeans who remain “unvaccinated by choice” must fund own treatment, says government",
+          "Covid-19: Pfizer vaccine provides 90% protection against infection in children aged 5-11, study finds",
+          "Covid vaccination to be mandatory for NHS staff in England from spring 2022",
+          "COP26: Fifty countries commit to climate resilient and low carbon health systems",
+          "Head of BMA committee steps down in row over patients’ access to GPs",
+          "Covid-19: Release of JCVI minutes prompts more questions over committee’s decisions",
+          "Sixty seconds on . . . hanging around",
+          "NHS lacks the fundamental tools required to tackle discrimination, report warns"
+        ],
+        "class": "latest-articles-blue"
+      },
+      {
+        "category": "Research",
+        "img": "./defibrilator.jpg",
+        "titles": [
+          "Epinephrine before defibrillation in patients with shockable in-hospital cardiac arrest",
+          "Use of whole genome sequencing to determine genetic basis of suspected mitochondrial disorders",
+          "Mapping conflict of interests: scoping review",
+          "Effects of covid-19 pandemic on life expectancy and premature mortality in 2020",
+          "Inhaled and intranasal ciclesonide for the treatment of covid-19 in adult outpatients",
+          "Cardioversion in patients with newly diagnosed non-valvular atrial fibrillation",
+          "Strengthening the reporting of observational studies in epidemiology using mendelian randomisation (STROBE-MR): explanation and elaboration"
+        ],
+        "class": "latest-articles-purple"
+      },
+      {
+        "category": "Comment",
+        "img": "./operation.jpg",
+        "titles": [
+          "Decarbonising healthcare in low and middle income countries: potential pathways to net zero emissions",
+          "We should move away from a focus on individual resilience towards building resilient systems",
+          "NHS staffing: the longest wait of all",
+          "Life expectancy by ethnic group in England",
+          "Helen Salisbury: What do GPs do all day?",
+          "What did the spending review do for population health?",
+          "The failure of provision for neurodiverse children during the covid-19 pandemic",
+          "Covid-19 and ethnicity: we must seek to understand the drivers of higher transmission"
+        ],
+        "class": "latest-articles-red"
+      },
+      {
+        "category": "Education",
+        "img": "./ct-scan.jpg",
+        "titles": [
+          "Advances in systemic therapy for non-small cell lung cancer",
+          "Obstructive sleep apnoea/hypopnoea syndrome and obesity hyperventilation syndrome in over 16s: summary of NICE guidance",
+          "Even low doses of steroids increase the risk of cardiovascular disease in people with inflammatory diseases",
+          "Home based rehabilitation after a knee replacement is as effective as physiotherapy",
+          "Providing effective evidence based support for breastfeeding women in primary care",
+          "Loneliness is strongly linked to depression among older adults, a long term study suggests"
+        ],
+        "class": "latest-articles-green"
+      }
+    ]
+  },
+
+  "cop26": {
+    "category": "COP26 and the climate energy",
+    "headlines": [
+      {
+        "title": "Priority setting and net zero healthcare: how much health can a tonne of carbon buy?",
+        "img": "./data1.jpg",
+        "description": "Cutting carbon emissions in healthcare requires trade-offs for clinicians, administrators, and global health policy makers and must be included when evaluating interventions, argue Anand Bhopal and Ole F Norheim",
+        "category": "Analysis",
+        "publishDate": "Oct 28"
+      },
+      {
+        "title": "Accelerating climate action: the role of health professionals",
+        "img": "./planet-stretcher.jpg",
+        "description": "Time is running out to reverse, or even halt, the damage done by humanity to our planet. Both individual action and promotion of systemic change are essential",
+        "category": "Editorial",
+        "publishDate": "Oct 7"
+      }
+    ],
+    "aside": [
+      {
+        "title": "COP26 diary: making health central to tackling climate change",
+        "category": "Opinion |",
+        "publishDate": "Nov 8"
+      },
+      {
+        "title": "Memo to COP26 leaders: abandon your hubris, politics, and pride and see the future through young people’s eyes",
+        "category": "Editor's Choice |",
+        "publishDate": "Oct 28"
+      },
+      {
+        "title": "Urban heat: an increasing threat to global health",
+        "category": "Analysis |",
+        "publishDate": "Oct 25"
+      },
+      {
+        "title": "Changing behaviour for net zero 2050",
+        "category": "Analysis |",
+        "publishDate": "Oct 7"
+      }
+    ]
+  },
+
+  "covid19": {
+    "category": "Covid-19 vaccination",
+    "headlines": [
+      {
+        "title": "Covid-19: global vaccine production is a mess and shortages are down to more than just hoarding",
+        "img": "./covid-vaccine-production.jpg",
+        "description": "Vaccination efforts around the world are being restrained by a shortage of doses. Jane Feinmann looks at what is holding up the process",
+        "category": "Feature",
+        "publishDate": "Oct 28"
+      },
+      {
+        "title": "Covid-19 treatments and vaccines must be evaluated in pregnancy",
+        "img": "./pregnant-woman-vaccinated.jpg",
+        "description": "Pregnant women should be included in drug and vaccine development from the outset, argues this Editorial",
+        "category": "Editorial",
+        "publishDate": "Oct 14"
+      }
+    ],
+    "aside": [
+      {
+        "title": "Covid-19: Just a third of blood cancer patients had antibodies against delta variant after two vaccine doses, study finds",
+        "category": "News |",
+        "publishDate": "Oct 27"
+      },
+      {
+        "title": "Covid-19: Protect healthcare workers with vaccines, urges WHO after 115 000 die worldwide",
+        "category": "News |",
+        "publishDate": "Oct 22"
+      },
+      {
+        "title": "Covid-19: Vaccines are highly effective in preventing deaths from delta variant, study indicates",
+        "category": "News |",
+        "publishDate": "Oct 21"
+      },
+      {
+        "title": "Covid-19 vaccination: evidence of waning immunity is overstated",
+        "category": "Editorial |",
+        "publishDate": "Sep 23"
+      }
+    ]
+  },
+
+  "jobs": {
+    "category": "UK Jobs",
+    "aside": [
+      { "title": "West Coker Surgery: Salaried GP" },
+      { "title": "Babylon: Salaried GPs" },
+      { "title": "Greece: Salaried GPs" },
+      {
+        "title": "Western Australia Country Health Service: Consultants, General Practitioners, Fellows and Senior Registrars"
+      },
+      { "title": "Honeypot Medical Centre: Salaried GP" },
+      { "title": "Mullion Health Centre: Salaried GP" }
+    ]
+  },
+
+  "magazine": {
+    "title": "Current Issue",
+    "img": "./latest-issue.jpg",
+    "articles": [
+      {
+        "title": "Under-reporting of deaths limits our understanding of true burden of covid-19",
+        "category": "Analysis",
+        "publishDate": "Oct 12"
+      },
+      {
+        "title": "Are vaccine passports and covid passes a valid alternative to lockdown?",
+        "category": "Head to Head",
+        "publishDate": "Nov 3"
+      },
+      {
+        "title": "How can I cope with my periods on a long shift?",
+        "category": "Careers",
+        "publishDate": "Nov 1"
+      },
+      {
+        "title": "Routine antenatal care for women and their babies: summary of NICE guidance",
+        "category": "Practice",
+        "publishDate": "Oct 29"
+      }
+    ]
+  },
+
+  "mostRead": {
+    "category": "Most read",
+    "titles": [
+      {
+        "id": "1",
+        "title": "Covid-19: Researcher blows the whistle on data integrity issues in Pfizer’s vaccine trial"
+      },
+      {
+        "id": "2",
+        "title": "Covid-19: Researcher blows the whistle on data integrity issues in Pfizer’s vaccine trial"
+      },
+      {
+        "id": "3",
+        "title": "Vaccinating people who have had covid-19: why doesn’t natural immunity count in the US?"
+      },
+      { "id": "4", "title": "Menstrual changes after covid-19 vaccination" },
+      {
+        "id": "5",
+        "title": "Vaccinating against covid and flu at same time is safe, study shows"
+      },
+      {
+        "id": "6",
+        "title": "Covid and flu: what do the numbers tell us about morbidity and deaths?"
+      }
+    ]
+  },
+
+  "community": {
+    "category": "Latest responses",
+    "responses": [
+      "Re: Sixty seconds on . . . hanging around - watered down by the transport secretary",
+      "Re: Life expectancy by ethnic group in England - genetics/deprivation or synergy?",
+      "The germ of a good idea.",
+      "Grave concern - whatever happened to the public interest?",
+      "Re: Covid-19: Researcher blows the whistle on data integrity issues in Pfizer’s vaccine trial"
+    ]
+  },
+
+  "altmetrics": {
+    "category": "Altmetrics",
+    "titles": [
+      {
+        "title": "Covid-19: Researcher blows the whistle on data integrity issues in Pfizer’s vaccine trial",
+        "img": "./alt1.png",
+        "date": "Nov 2, 2021"
+      },
+      {
+        "title": "Risk of mortality in patients infected with SARS-CoV-2 variant of concern 202012/1: matched cohort study",
+        "img": "./alt2.png",
+        "date": "Mar 9, 2021"
+      },
+      {
+        "title": "Covid-19: Social murder, they wrote—elected, unaccountable, and unrepentant",
+        "img": "./alt3.png",
+        "date": "Feb 3, 2021"
+      },
+      {
+        "title": "Covid-19: FDA set to grant full approval to Pfizer vaccine without public discussion of data",
+        "img": "./alt4.png",
+        "date": "Aug 20, 2021"
+      }
+    ]
+  },
+
+  "footer": [
+    {
+      "category": "Content Links",
+      "options": [
+        "Colections",
+        "Health in South Asia",
+        "Women's, children's & adolescent's health",
+        "Zika virus",
+        "Research",
+        "Education",
+        "News and views",
+        "BMJ Opinion",
+        "Rapid responses",
+        "Archive"
+      ]
+    },
+    {
+      "category": "About us",
+      "options": [
+        "About us",
+        "Editorial staff",
+        "BMJ in the USA",
+        "BMJ in South Asia",
+        "Advisers",
+        "Policies",
+        "Submit your paper"
+      ]
+    },
+    {
+      "category": "Resources",
+      "options": [
+        "Authors",
+        "Reviewers",
+        "BMA members",
+        "Readers",
+        "Subscribers",
+        "Advertisers and sponsors",
+        "Media",
+        "Recruiters",
+        "2019 Student BMJ Clegg Scholarship"
+      ]
+    },
+    {
+      "category": "Explore BMJ",
+      "options": [
+        "Our company",
+        "BMJ Careers",
+        "BMJ Learning",
+        "BMJ Masterclasses",
+        "BMJ Journals",
+        "BMJ Student",
+        "Academic edition of The BMJ",
+        "BMJ Best Practice",
+        "The BMJ Awards"
+      ]
+    },
+    {
+      "category": "My account",
+      "options": ["Email alerts", "Activate subscription"]
+    },
+    { "category": "Information", "options": ["Contact us", "Complaints"] }
+  ],
+
+  "socials": ["Twitter", "Facebook", "Youtube", "Pinterest", "RssFeed"],
+
+  "tnc": [
+    "Cookie Settings",
+    "Cookie Policy",
+    "Privacy Policy",
+    "Website T&Cs",
+    "Revenue Sources",
+    "HighWire Press",
+    "Sitemap"
+  ]
+}
