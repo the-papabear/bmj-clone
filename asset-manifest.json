@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/bmj-clone/static/js/main.8bf54955.js",
+    "static/media/mid-page-ad.png": "/bmj-clone/static/media/mid-page-ad.5cd49aa35a2d6ce475ef.png",
+    "static/media/prefooter-ad.png": "/bmj-clone/static/media/prefooter-ad.1b93baf4e2f64bd62dcf.png",
+    "static/media/header-ad.png": "/bmj-clone/static/media/header-ad.015e2483d5719ca53ce9.png",
+    "static/media/singapore-vaccine-advert.jpg": "/bmj-clone/static/media/singapore-vaccine-advert.d8111c8e765ab6842786.jpg",
+    "static/media/latest-issue.jpg": "/bmj-clone/static/media/latest-issue.329abbe7b4e9590b353a.jpg",
+    "static/media/operation.jpg": "/bmj-clone/static/media/operation.a933f35d87b5edebc382.jpg",
+    "static/media/microphone.jpg": "/bmj-clone/static/media/microphone.473079c917a3bbb64f27.jpg",
+    "static/media/covid-vaccine.jpg": "/bmj-clone/static/media/covid-vaccine.c6d136e74b1a7ce8e88b.jpg",
+    "static/media/defibrilator.jpg": "/bmj-clone/static/media/defibrilator.4155d5dac8c7722d7a10.jpg",
+    "static/media/alt3.png": "/bmj-clone/static/media/alt3.84e6b5ac0e8162fe2cef.png",
+    "static/media/alt1.png": "/bmj-clone/static/media/alt1.278f2e026d2f2bb97ba6.png",
+    "static/media/alt2.png": "/bmj-clone/static/media/alt2.6a0c949e9cb35371bf43.png",
+    "static/media/alt4.png": "/bmj-clone/static/media/alt4.8a76bce114ea9b405d8b.png",
+    "static/media/ct-scan.jpg": "/bmj-clone/static/media/ct-scan.7689c24a5936b74dcabb.jpg",
+    "static/media/baby-bottle.jpeg": "/bmj-clone/static/media/baby-bottle.e003895e4b68a9f1a70e.jpeg",
+    "index.html": "/bmj-clone/index.html",
+    "main.8bf54955.js.map": "/bmj-clone/static/js/main.8bf54955.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8bf54955.js"
+  ]
+}
