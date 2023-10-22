@@ -1,11 +1,11 @@
 import { CommunityProps } from "../../interfaces/CommunityInterface";
-import { community } from "../../data/sitedata.json";
+import data from "../../data/sitedata.json";
 
 const Responses: React.FC = (): JSX.Element => {
   return (
     <div className="responses">
-      <h3>{community.category}</h3>
-      <Response data={community.responses} />
+      <h3>{data.community.category}</h3>
+      <Response data={data.community.responses} />
       <div className="view-more">
         <p>View More</p>
       </div>

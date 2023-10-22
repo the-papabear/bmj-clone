@@ -1,5 +1,5 @@
 import LatestArticlesWrapper from "../../styles/LatestArticlesStyles";
-import { latest } from "../../data/sitedata.json";
+import data from "../../data/sitedata.json";
 import siteImages from "../../img";
 import React from "react";
 
@@ -11,10 +11,10 @@ interface SectionProps {
 }
 
 const LatestArticles: React.FC = (): JSX.Element => {
-  const sections = latest.titles;
+  const sections = data.latest.titles;
   return (
     <>
-      <h2>{latest.category}</h2>
+      <h2>{data.latest.category}</h2>
       <LatestArticlesWrapper>
         {sections.map((section) => {
           return (

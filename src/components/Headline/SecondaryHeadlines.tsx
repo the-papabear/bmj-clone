@@ -1,4 +1,4 @@
-import { headline } from "../../data/sitedata.json";
+import data from "../../data/sitedata.json";
 import siteImages from "../../img";
 
 interface MainHeadlineProps {
@@ -10,7 +10,7 @@ interface MainHeadlineProps {
 }
 
 const SecondaryHeadlines: React.FC = (): JSX.Element => {
-  const secondaryHeadlineData = headline.titles;
+  const secondaryHeadlineData = data.headline.titles;
   return (
     <div className="secondary-headlines">
       {secondaryHeadlineData.map((newsArticle) => {

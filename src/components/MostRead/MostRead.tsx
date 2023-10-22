@@ -1,14 +1,14 @@
 import MostReadWrapper from "../../styles/MostReadStyles";
-import { mostRead } from "../../data/sitedata.json";
+import data from "../../data/sitedata.json";
 
 const MostRead: React.FC = (): JSX.Element => {
   return (
     <MostReadWrapper>
       <div className="section-title">
-        <h2>{mostRead.category}</h2>
+        <h2>{data.mostRead.category}</h2>
       </div>
       <div className="most-read-list">
-        {mostRead.titles.map((title) => {
+        {data.mostRead.titles.map((title) => {
           return (
             <div key={title.id} className="list-item">
               <span>{title.id}.</span>

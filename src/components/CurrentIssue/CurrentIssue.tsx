@@ -1,5 +1,5 @@
 import CurrentIssueWrapper from "../../styles/CurrentIssueStyles";
-import { magazine } from "../../data/sitedata.json";
+import data from "../../data/sitedata.json";
 import siteImages from "../../img";
 
 interface articleProps {
@@ -33,17 +33,17 @@ const CurrentIssue: React.FC = (): JSX.Element => {
     <CurrentIssueWrapper>
       <div className="current-issue-content">
         <div className="title">
-          <h3>{magazine.title}</h3>
+          <h3>{data.magazine.title}</h3>
         </div>
         <div className="page-and-articles">
           <div className="issue-img-btn">
-            <img src={siteImages[magazine.img]} alt="lastet issue" />
+            <img src={siteImages[data.magazine.img]} alt="lastet issue" />
             <div className="issue-buttons">
               <span>All Issues</span>
               <span>Past Issues</span>
             </div>
           </div>
-          <ArticleTitles data={magazine} />
+          <ArticleTitles data={data.magazine} />
         </div>
       </div>
       <div className="advertisment">

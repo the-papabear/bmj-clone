@@ -1,10 +1,10 @@
 import React from "react";
-import { headline } from "../../data/sitedata.json";
+import data from "../../data/sitedata.json";
 import siteImages from "../../img";
 import SecondaryHeadlines from "./SecondaryHeadlines";
 
 const MainHeadlineSection: React.FC = (): JSX.Element => {
-  const mainHeadlineData = headline.main;
+  const mainHeadlineData = data.headline.main;
 
   return (
     <div className="headline-wrapper">

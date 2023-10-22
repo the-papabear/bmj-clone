@@ -1,14 +1,14 @@
 import siteImages from "../../img";
-import { altmetrics } from "../../data/sitedata.json";
+import data from "../../data/sitedata.json";
 import { AltmetricsProps } from "../../interfaces/CommunityInterface";
 
 const Altmetrics: React.FC = (): JSX.Element => {
   return (
     <div className="altmetrics">
       <div className="category-title">
-        <h3>{altmetrics.category}</h3>
+        <h3>{data.altmetrics.category}</h3>
       </div>
-      <Altmetric altdata={altmetrics.titles} />
+      <Altmetric altdata={data.altmetrics.titles} />
     </div>
   );
 };
